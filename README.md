@@ -16,22 +16,20 @@ This repository showcases a collection of Business Intelligence dashboards creat
 4. **📋 Executive Dashboard (Tableau)**  
    > Summary of business performance for executive-level decision-making.
 
-
 ### 🖼️ SuperRare Digital Art Sales Dashboard (Power BI)
 > Key insights into digital NFT sales, top artists, and art performance.
 
 <p align="center">
-  <img src="screenshots/superrare_dashboard_page1.png" width="700" alt="SuperRare Page 1"/>
+  <img src="screenshots/superrare_dashboard_page1.PNG" width="700" alt="SuperRare Page 1"/>
   <br><em>Page 1: Sales Overview</em><br><br>
-  <img src="screenshots/superrare_dashboard_page2.png" width="700" alt="SuperRare Page 2"/>
+  <img src="screenshots/superrare_dashboard_page2.PNG" width="700" alt="SuperRare Page 2"/>
   <br><em>Page 2: Artists & Collectors</em>
 </p>
-
----
 
 ### 📈 Sales Performance Dashboard (Power BI)
 
 <p align="center">
-  <img src="screenshots/Sales.png" width="700" alt="Sales Dashboard"/>
+  <img src="screenshots/Sales.PNG" width="700" alt="Sales Dashboard"/>
   <br><em>Sales Trends, Profits, and Regional Insights</em>
 </p>
+
